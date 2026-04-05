@@ -1,4 +1,4 @@
-# Design-and-Implementation-of-a-Traffic-Light-Control-System-Using-Arduino-Uno-and-FreeRTOS
+# Design-and-Implementation-of-a-Traffic-Light-Control-System-Using-Arduino-Uno-and-FreeRTOS.
 ![Traffic-Light-Control-System-Using-Arduino-Uno-and-FreeRTOS picture](https://github.com/NajimAlfutini/Design-and-Implementation-of-a-Traffic-Light-Control-System-Using-Arduino-Uno-and-FreeRTOS/assets/138370248/8a51e6f1-75f5-4e3c-b682-b24c0fa98da0)
 
 
